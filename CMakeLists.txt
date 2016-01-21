@@ -56,12 +56,3 @@ catkin_package(
     message_runtime
     std_msgs
 )
-
-##################
-## Installation ##
-##################
-install(
-  DIRECTORY include/poslv_msgs/
-  DESTINATION ${CATKIN_PACKAGE_INCLUDE_DESTINATION}
-  PATTERN "*.h"
-)
