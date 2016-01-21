@@ -1,0 +1,14 @@
+Header header
+poslv_msgs/TimeDistanceMsg timeDistance
+float32 northPositionRMSError
+float32 eastPositionRMSError
+float32 downPositionRMSError
+float32 northVelocityRMSError
+float32 eastVelocityRMSError
+float32 downVelocityRMSError
+float32 rollRMSError
+float32 pitchRMSError
+float32 headingRMSError
+float32 errorEllipsoidSemiMajor
+float32 errorEllipsoidSemiMinor
+float32 errorEllipsoidOrientation

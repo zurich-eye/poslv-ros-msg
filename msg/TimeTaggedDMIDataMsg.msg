@@ -1,0 +1,8 @@
+Header header
+poslv_msgs/TimeDistanceMsg timeDistance
+float64 signedDistanceTraveled
+float64 unsignedDistanceTraveled
+uint16 dmiScaleFactor
+uint8 dataStatus
+uint8 dmiType
+uint8 dmiDataRate
